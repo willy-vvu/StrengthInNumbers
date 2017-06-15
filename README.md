@@ -28,8 +28,6 @@ Dimensions: Approx. 6m x 1.2m x 1.5m
 
 Weight: Approx. 30kg
 
-Total spanning distance: 6m
-
 ---
 
 Assignment for: 4.101 Exploring Design (Final Project)
