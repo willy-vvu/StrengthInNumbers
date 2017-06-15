@@ -24,8 +24,6 @@ Strength in Numbers is a 24 foot spanning structure that is as modular as it is 
 
 ![](StrengthInNumbers8.jpg)
 
-![](StrengthInNumbers9.jpg)
-
 Dimensions: Approx. 6m x 1.2m x 1.5m
 
 Weight: Approx. 30kg
