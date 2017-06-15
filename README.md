@@ -32,6 +32,8 @@ Weight: Approx. 30kg
 
 Assignment for: 4.101 Exploring Design (Final Project)
 
+In Collaboration with: Lisbeth Acevedo, Hannah Lienhard
+
 Learning Focus: Large Scale Fabrication, Computer Aided Design, Scale Models, Laser Cutting
 
 Media: Spanning Structure, Intallation, Object
