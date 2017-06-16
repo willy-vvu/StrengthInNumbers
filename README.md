@@ -1,10 +1,10 @@
 # Strength in Numbers
 
-![](StrengthInNumbers1.jpg)
-
 Strength in Numbers is a 24 foot spanning structure that is as modular as it is mobile. Its two symmetrical arms, each broken into four groups of three tetrahedral units, are able to curl up and down in response to tensioned control ropes. In addition, the structure is reversibly manufactured; using clear plastic tubes, velcro, knotted rope, and snap-in connectors, it is able to be broken apart into component pieces as easily as it is assembled and deployed.
 
 [Read the Writeup](StrengthInNumbers.pdf)
+
+![](StrengthInNumbers1.jpg)
 
 ![](StrengthInNumbers2.jpg)
 
