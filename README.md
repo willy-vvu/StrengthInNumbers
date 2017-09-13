@@ -36,7 +36,7 @@ In Collaboration with: Lisbeth Acevedo, Hannah Lienhard
 
 Learning Focus: Large Scale Fabrication, Computer Aided Design, Scale Models, Laser Cutting
 
-Media: Spanning Structure, Intallation, Object
+Media: Spanning Structure, Installation, Object
 
 Software: Rhino, Blender, Adobe InDesign
 
